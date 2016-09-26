@@ -2,7 +2,7 @@
 
 <b>Developed by: </b> <a target="_blank" href="http://www.nipgr.res.in">NIPGR</a>
 <br>
-Developer(s): <a href="mailto:saurabh.gayali@gmail.com" target="_blank">Saurabh Gayali</a><br>LL 
+Developer(s): <a href="mailto:saurabh.gayali@gmail.com" target="_blank">Saurabh Gayali</a><br>
 Scientist concerned: <a href="mailto:nchakraborty@gmail.com" target="_blank">Dr. Niranjan Chakraborty</a>
 
 
