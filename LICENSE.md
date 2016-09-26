@@ -1,0 +1,2 @@
+**License:** You are free to use array2table for academic/research/non-commercial purpose till you do not modify the license of this library file.Keeping the license same, you are free to modify the code and redistribute with mention of original code.Any derived software that use this library not necessarily should mention or cite this work but necessarily should be free and non-commercial.
+Any technology that uses this may not be submitted to any private patent without prior notification to the author.
