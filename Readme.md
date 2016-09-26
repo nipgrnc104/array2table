@@ -1,8 +1,8 @@
 #Arry2table
 
-Developed by [NIPGR](www.nipgr.res.in)  
-Developer(s): Saurabh Gayali ([email] (saurabh.gayali@gmail.com))  
-Scientist concerned: Dr. Niranjan Chakraborty ([email](nchakraborty@gmail.com))
+Developed by [NIPGR](http://www.nipgr.res.in)  
+Developer(s): Saurabh Gayali. Email- <saurabh.gayali@gmail.com>
+Scientist concerned: Dr. Niranjan Chakraborty. Email](nchakraborty@gmail.com))
 
 
 
