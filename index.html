@@ -1,3 +1,21 @@
+<style>
+#popUp {
+  position: absolute;
+  width: 80%;
+  height: 200px;
+  z-index: 15;
+  top: 50%;
+  left: 10px;
+//  margin: -100px 0 0 -150px;
+}
+pre{
+    white-space: pre-wrap;
+}
+</style>
+
+
+<div id="popup">
+
 <h1>Arry2table</h1>
 
 <b>Developed by: </b> <a target="_blank" href="http://www.nipgr.res.in">NIPGR</a>
@@ -12,7 +30,7 @@
 Example array
 
 
-<div class="mydiv" style="border:1px #000 solid; width:50%;background:#ccc">
+<div class="mydiv" style="border:1px #000 solid; width:100%;background:#ccc">
 <pre>
 Array ( [0] => Array ( [0] => 1 [1] => 1 ) [1] => Array ( [0] => 1 [1] => 1 ) ) 
 </pre>
@@ -22,7 +40,7 @@ Array ( [0] => Array ( [0] => 1 [1] => 1 ) [1] => Array ( [0] => 1 [1] => 1 ) )
 This array is fed as example inside php as:
 
 
-<div class="mydiv" style="border:1px #000 solid; width:50%;background:#ccc">
+<div class="mydiv" style="border:1px #000 solid; width:100%;background:#ccc">
 <pre>
 $array[0][0]=1;
 $array[0][1]=1;  
@@ -35,7 +53,7 @@ $array[1][1]=1;
 <br><br>
 This function can be called anywhere inside other documents as
 
-<div class="mydiv" style="border:1px #000 solid; width:50%;background:#ccc">
+<div class="mydiv" style="border:1px #000 solid; width:100%;background:#ccc">
 <pre>
 echo array2table($array);
 </pre>
@@ -47,3 +65,4 @@ Here is the output table
 
 
 
+</div>
